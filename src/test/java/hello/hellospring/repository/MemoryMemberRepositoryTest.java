@@ -12,6 +12,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class MemoryMemberRepositoryTest {
 
+
    MemoryMemberRepository repository = new MemoryMemberRepository();
 
    //test 하나 끝날 때마다 데이터를 지워줌, 의존관계가 없어야 함.
